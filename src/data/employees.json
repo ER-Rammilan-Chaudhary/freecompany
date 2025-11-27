@@ -1,0 +1,1391 @@
+[
+  {
+    "id": "1",
+    "basicInfo": {
+      "employeeName": "Ram Kumar",
+      "fatherOrGuardianName": "Shyam Kumar",
+      "gender": "Male",
+      "dateOfBirth": "1990-01-12",
+      "photo": "https://randomuser.me/api/portraits/men/11.jpg",
+      "contactNumber": "9876543210",
+      "email": "ram@example.com",
+      "address": "Mumbai, Maharashtra",
+      "password": "123456"
+    },
+    "officialDetails": {
+      "officeName": "Free Company HQ",
+      "designation": "Product Manager",
+      "department": "Product",
+      "employeeID": "EMP001",
+      "joiningDate": "2021-04-10",
+      "employmentType": "Full-time"
+    },
+    "workProfile": {
+      "jobProfile": "Manages product development & roadmap",
+      "dailyTasks": ["Planning", "Team Meeting", "Feature Review"],
+      "workLocation": "Mumbai HQ",
+      "shiftTiming": { "checkIn": "10:00 AM", "checkOut": "07:00 PM" },
+      "reportingManager": "Sandeep Mehta",
+      "teamName": "Product Team"
+    },
+    "documents": {
+      "aadhaar": "XXXXXXXX1234",
+      "pan": "ABCDE1234F",
+      "bankDetails": "HDFC Bank - ****4545",
+      "educationCertificates": true,
+      "experienceLetter": true,
+      "resume": true
+    },
+    "attendance": {
+      "dailyAttendance": [],
+      "leaveRecords": [],
+      "lateEntry": 3,
+      "earlyExit": 1,
+      "overtimeHours": 10,
+      "status": "Present"
+    },
+    "salaryDetails": {
+      "basicSalary": 65000,
+      "allowances": 8000,
+      "deductions": 2000,
+      "status": "Paid",
+      "bankAccount": "HDFC - ****4545",
+      "incentives": 5000
+    },
+    "performance": {
+      "monthlyReport": "Excellent",
+      "completedTasks": 120,
+      "pendingTasks": 5,
+      "rating": 4.8,
+      "notes": "Strong leadership"
+    },
+    "systemAccess": {
+      "username": "ram.k",
+      "password": "123456",
+      "accessLevel": "Manager",
+      "lastLogin": "2025-11-20 09:15",
+      "activityLog": []
+    }
+  },
+
+  {
+    "id": "2",
+    "basicInfo": {
+      "employeeName": "Ravi Sharma",
+      "fatherOrGuardianName": "Mahesh Sharma",
+      "gender": "Male",
+      "dateOfBirth": "1993-02-20",
+      "photo": "https://randomuser.me/api/portraits/men/21.jpg",
+      "contactNumber": "9822334411",
+      "email": "ravi@example.com",
+      "address": "Delhi, India",
+      "password": "123456"
+    },
+    "officialDetails": {
+      "officeName": "Free Company HQ",
+      "designation": "Software Engineer",
+      "department": "Engineering",
+      "employeeID": "EMP002",
+      "joiningDate": "2022-01-15",
+      "employmentType": "Full-time"
+    },
+    "workProfile": {
+      "jobProfile": "Develops web applications",
+      "dailyTasks": ["Coding", "Bug Fixing", "Sprint Planning"],
+      "workLocation": "Remote",
+      "shiftTiming": { "checkIn": "09:30 AM", "checkOut": "06:30 PM" },
+      "reportingManager": "Aisha Khan",
+      "teamName": "Engineering Team"
+    },
+    "documents": {
+      "aadhaar": "XXXXXXXX9876",
+      "pan": "BCDHE5423J",
+      "bankDetails": "SBI Bank - ****9080",
+      "educationCertificates": true,
+      "experienceLetter": false,
+      "resume": true
+    },
+    "attendance": {
+      "dailyAttendance": [],
+      "leaveRecords": [],
+      "lateEntry": 1,
+      "earlyExit": 0,
+      "overtimeHours": 20,
+      "status": "Present"
+    },
+    "salaryDetails": {
+      "basicSalary": 55000,
+      "allowances": 5000,
+      "deductions": 1500,
+      "status": "Paid",
+      "bankAccount": "SBI - ****9080",
+      "incentives": 3000
+    },
+    "performance": {
+      "monthlyReport": "Very Good",
+      "completedTasks": 98,
+      "pendingTasks": 12,
+      "rating": 4.5,
+      "notes": "Strong technical skills"
+    },
+    "systemAccess": {
+      "username": "ravi.s",
+      "password": "123456",
+      "accessLevel": "Employee",
+      "lastLogin": "2025-11-21 08:30",
+      "activityLog": []
+    }
+  },
+
+  {
+    "id": "3",
+    "basicInfo": {
+      "employeeName": "Neha Verma",
+      "fatherOrGuardianName": "Suresh Verma",
+      "gender": "Female",
+      "dateOfBirth": "1997-11-15",
+      "photo": "https://randomuser.me/api/portraits/women/23.jpg",
+      "contactNumber": "9876001122",
+      "email": "neha@example.com",
+      "address": "Pune, Maharashtra",
+      "password": "123456"
+    },
+    "officialDetails": {
+      "officeName": "Free Company HQ",
+      "designation": "HR Executive",
+      "department": "Human Resources",
+      "employeeID": "EMP003",
+      "joiningDate": "2023-02-10",
+      "employmentType": "Full-time"
+    },
+    "workProfile": {
+      "jobProfile": "HR operations & onboarding",
+      "dailyTasks": ["Interviews", "Documentation", "Attendance Review"],
+      "workLocation": "Pune Branch",
+      "shiftTiming": { "checkIn": "10:00 AM", "checkOut": "06:00 PM" },
+      "reportingManager": "Rajesh Patil",
+      "teamName": "HR Team"
+    },
+    "documents": {
+      "aadhaar": "XXXXXXXX4321",
+      "pan": "QWERT9834K",
+      "bankDetails": "AXIS Bank - ****5433",
+      "educationCertificates": true,
+      "experienceLetter": false,
+      "resume": true
+    },
+    "attendance": {
+      "dailyAttendance": [],
+      "leaveRecords": [],
+      "lateEntry": 2,
+      "earlyExit": 0,
+      "overtimeHours": 3,
+      "status": "Present"
+    },
+    "salaryDetails": {
+      "basicSalary": 40000,
+      "allowances": 3000,
+      "deductions": 800,
+      "status": "Paid",
+      "bankAccount": "AXIS - ****5433",
+      "incentives": 1500
+    },
+    "performance": {
+      "monthlyReport": "Good",
+      "completedTasks": 76,
+      "pendingTasks": 10,
+      "rating": 4.1,
+      "notes": "Consistent and disciplined"
+    },
+    "systemAccess": {
+      "username": "neha.v",
+      "password": "123456",
+      "accessLevel": "Employee",
+      "lastLogin": "2025-11-19 11:05",
+      "activityLog": []
+    }
+  },
+  
+  {
+  "id": "4",
+  "basicInfo": {
+    "employeeName": "Sanjay Patel",
+    "fatherOrGuardianName": "Hitesh Patel",
+    "gender": "Male",
+    "dateOfBirth": "1990-10-05",
+    "photo": "https://example.com/photos/sanjay.jpg",
+    "contactNumber": "9856231470",
+    "email": "sanjay@example.com",
+    "address": "Ahmedabad, Gujarat",
+    "password": "pass123"
+  },
+  "officialDetails": {
+    "officeName": "Free Company HQ",
+    "designation": "UI/UX Designer",
+    "department": "Design",
+    "employeeID": "EMP004",
+    "joiningDate": "2021-09-13",
+    "employmentType": "Full-time"
+  },
+  "workProfile": {
+    "jobProfile": "Designs product UI and user flows",
+    "dailyTasks": ["Wireframes", "Prototypes", "Design Review"],
+    "workLocation": "Ahmedabad Branch",
+    "shiftTiming": { "checkIn": "10:30 AM", "checkOut": "07:30 PM" },
+    "reportingManager": "Aisha Khan",
+    "teamName": "Design Team"
+  },
+  "documents": {
+    "aadhaar": "XXXXXXXX2211",
+    "pan": "PQWER9090A",
+    "bankDetails": "ICICI - ****2211",
+    "educationCertificates": true,
+    "experienceLetter": true,
+    "resume": true
+  },
+  "attendance": {
+    "dailyAttendance": [],
+    "leaveRecords": [],
+    "lateEntry": 2,
+    "earlyExit": 0,
+    "overtimeHours": 4,
+    "status": "Present"
+  },
+  "salaryDetails": {
+    "basicSalary": 50000,
+    "allowances": 7000,
+    "deductions": 2000,
+    "status": "Paid",
+    "bankAccount": "ICICI - ****2211",
+    "incentives": 2000
+  },
+  "performance": {
+    "monthlyReport": "Very Good",
+    "completedTasks": 95,
+    "pendingTasks": 12,
+    "rating": 4.3,
+    "notes": "Creative designer"
+  },
+  "systemAccess": {
+    "username": "sanjay.p",
+    "password": "encrypted-password",
+    "accessLevel": "Employee",
+    "lastLogin": "2025-11-18 09:30",
+    "activityLog": []
+  }
+},
+{
+  "id": "5",
+  "basicInfo": {
+    "employeeName": "Priya Nair",
+    "fatherOrGuardianName": "Ramesh Nair",
+    "gender": "Female",
+    "dateOfBirth": "1996-12-20",
+    "photo": "https://example.com/photos/priya.jpg",
+    "contactNumber": "9871112233",
+    "email": "priya@example.com",
+    "address": "Kochi, Kerala",
+    "password": "priya123"
+  },
+  "officialDetails": {
+    "officeName": "Free Company HQ",
+    "designation": "QA Engineer",
+    "department": "Testing",
+    "employeeID": "EMP005",
+    "joiningDate": "2022-05-10",
+    "employmentType": "Full-time"
+  },
+  "workProfile": {
+    "jobProfile": "Tests software & ensures quality",
+    "dailyTasks": ["Testing", "Reporting", "Meetings"],
+    "workLocation": "Remote",
+    "shiftTiming": { "checkIn": "09:00 AM", "checkOut": "06:00 PM" },
+    "reportingManager": "Aisha Khan",
+    "teamName": "QA Team"
+  },
+  "documents": {
+    "aadhaar": "XXXXXXXX9988",
+    "pan": "ASDFT6789P",
+    "bankDetails": "Federal Bank - ****9988",
+    "educationCertificates": true,
+    "experienceLetter": false,
+    "resume": true
+  },
+  "attendance": {
+    "dailyAttendance": [],
+    "leaveRecords": [],
+    "lateEntry": 2,
+    "earlyExit": 3,
+    "overtimeHours": 5,
+    "status": "Absent"
+  },
+  "salaryDetails": {
+    "basicSalary": 42000,
+    "allowances": 4000,
+    "deductions": 1200,
+    "status": "Pending",
+    "bankAccount": "Federal - ****9988",
+    "incentives": 1000
+  },
+  "performance": {
+    "monthlyReport": "Average",
+    "completedTasks": 60,
+    "pendingTasks": 25,
+    "rating": 3.5,
+    "notes": "Needs improvement in speed"
+  },
+  "systemAccess": {
+    "username": "priya.n",
+    "password": "encrypted-password",
+    "accessLevel": "Employee",
+    "lastLogin": "2025-11-22 11:50",
+    "activityLog": []
+  }
+},
+  {
+    "id": "6",
+    "basicInfo": {
+      "employeeName": "Nikhil Tiwari",
+      "fatherOrGuardianName": "Ramesh Tiwari",
+      "gender": "Male",
+      "dateOfBirth": "1994-05-22",
+      "photo": "https://example.com/photos/nikhil.jpg",
+      "contactNumber": "9876502211",
+      "email": "nikhil@example.com",
+      "address": "Kanpur, UP",
+      "password": "9876502211"
+    },
+    "officialDetails": {
+      "officeName": "Free Company HQ",
+      "designation": "Backend Developer",
+      "department": "Engineering",
+      "employeeID": "EMP006",
+      "joiningDate": "2023-01-18",
+      "employmentType": "Full-time"
+    },
+    "workProfile": {
+      "jobProfile": "API development & microservices",
+      "dailyTasks": ["Coding", "Code Review", "Database Optimization"],
+      "workLocation": "Remote",
+      "shiftTiming": {
+        "checkIn": "10:00 AM",
+        "checkOut": "07:00 PM"
+      },
+      "reportingManager": "Aisha Khan",
+      "teamName": "Engineering Team"
+    },
+    "documents": {
+      "aadhaar": "XXXXXXXX7788",
+      "pan": "TGHYH2214F",
+      "bankDetails": "ICICI Bank - ****5566",
+      "educationCertificates": true,
+      "experienceLetter": true,
+      "resume": true
+    },
+    "attendance": {
+      "dailyAttendance": [],
+      "leaveRecords": [],
+      "lateEntry": 1,
+      "earlyExit": 0,
+      "overtimeHours": 12,
+      "status": "Present"
+    },
+    "salaryDetails": {
+      "basicSalary": 58000,
+      "allowances": 4000,
+      "deductions": 2000,
+      "status": "Paid",
+      "bankAccount": "ICICI - ****5566",
+      "incentives": 2000
+    },
+    "performance": {
+      "monthlyReport": "Very Good",
+      "completedTasks": 95,
+      "pendingTasks": 6,
+      "rating": 4.4,
+      "notes": "Strong backend skills"
+    },
+    "systemAccess": {
+      "username": "nikhil.t",
+      "password": "encrypted-password",
+      "accessLevel": "Employee",
+      "lastLogin": "2025-11-22 08:55",
+      "activityLog": []
+    }
+  },
+  {
+    "id": "7",
+    "basicInfo": {
+      "employeeName": "Kritika Sinha",
+      "fatherOrGuardianName": "Dev Sinha",
+      "gender": "Female",
+      "dateOfBirth": "1998-09-18",
+      "photo": "https://example.com/photos/kritika.jpg",
+      "contactNumber": "9087654312",
+      "email": "kritika@example.com",
+      "address": "Indore, MP",
+      "password": "9087654312"
+    },
+    "officialDetails": {
+      "officeName": "Free Company HQ",
+      "designation": "UI/UX Designer",
+      "department": "Design",
+      "employeeID": "EMP007",
+      "joiningDate": "2023-03-12",
+      "employmentType": "Full-time"
+    },
+    "workProfile": {
+      "jobProfile": "Designs app & web UI",
+      "dailyTasks": ["Wireframes", "User Testing", "Mockups"],
+      "workLocation": "Mumbai HQ",
+      "shiftTiming": {
+        "checkIn": "09:45 AM",
+        "checkOut": "06:45 PM"
+      },
+      "reportingManager": "Sunil Mehta",
+      "teamName": "Design Team"
+    },
+    "documents": {
+      "aadhaar": "XXXXXXXX4433",
+      "pan": "PSRTY8821J",
+      "bankDetails": "HDFC Bank - ****6677",
+      "educationCertificates": true,
+      "experienceLetter": false,
+      "resume": true
+    },
+    "attendance": {
+      "dailyAttendance": [],
+      "leaveRecords": [],
+      "lateEntry": 0,
+      "earlyExit": 1,
+      "overtimeHours": 5,
+      "status": "Present"
+    },
+    "salaryDetails": {
+      "basicSalary": 48000,
+      "allowances": 3000,
+      "deductions": 1500,
+      "status": "Paid",
+      "bankAccount": "HDFC - ****6677",
+      "incentives": 1000
+    },
+    "performance": {
+      "monthlyReport": "Good",
+      "completedTasks": 87,
+      "pendingTasks": 12,
+      "rating": 4.2,
+      "notes": "Creative designer"
+    },
+    "systemAccess": {
+      "username": "kritika.s",
+      "password": "encrypted-password",
+      "accessLevel": "Employee",
+      "lastLogin": "2025-11-21 10:02",
+      "activityLog": []
+    }
+  },
+  {
+    "id": "8",
+    "basicInfo": {
+      "employeeName": "Suresh Kumar",
+      "fatherOrGuardianName": "Kailash Kumar",
+      "gender": "Male",
+      "dateOfBirth": "1990-03-10",
+      "photo": "https://example.com/photos/suresh.jpg",
+      "contactNumber": "9988776655",
+      "email": "suresh@example.com",
+      "address": "Hyderabad, Telangana",
+      "password": "9988776655"
+    },
+    "officialDetails": {
+      "officeName": "Free Company HQ",
+      "designation": "Network Engineer",
+      "department": "IT Infrastructure",
+      "employeeID": "EMP008",
+      "joiningDate": "2020-12-01",
+      "employmentType": "Full-time"
+    },
+    "workProfile": {
+      "jobProfile": "Maintains IT network & servers",
+      "dailyTasks": ["Monitoring", "Troubleshooting", "Upgrades"],
+      "workLocation": "Hyderabad Office",
+      "shiftTiming": {
+        "checkIn": "10:30 AM",
+        "checkOut": "07:30 PM"
+      },
+      "reportingManager": "Rajesh Patil",
+      "teamName": "IT Team"
+    },
+    "documents": {
+      "aadhaar": "XXXXXXXX9900",
+      "pan": "HGFFT9876A",
+      "bankDetails": "SBI Bank - ****3322",
+      "educationCertificates": true,
+      "experienceLetter": true,
+      "resume": true
+    },
+    "attendance": {
+      "dailyAttendance": [],
+      "leaveRecords": [],
+      "lateEntry": 2,
+      "earlyExit": 1,
+      "overtimeHours": 18,
+      "status": "Present"
+    },
+    "salaryDetails": {
+      "basicSalary": 60000,
+      "allowances": 6000,
+      "deductions": 2000,
+      "status": "Paid",
+      "bankAccount": "SBI - ****3322",
+      "incentives": 2500
+    },
+    "performance": {
+      "monthlyReport": "Excellent",
+      "completedTasks": 130,
+      "pendingTasks": 4,
+      "rating": 4.9,
+      "notes": "Very reliable"
+    },
+    "systemAccess": {
+      "username": "suresh.k",
+      "password": "encrypted-password",
+      "accessLevel": "Manager",
+      "lastLogin": "2025-11-25 09:18",
+      "activityLog": []
+    }
+  },
+
+  {
+    "id": "9",
+    "basicInfo": {
+      "employeeName": "Geeta Rathore",
+      "fatherOrGuardianName": "Vijay Rathore",
+      "gender": "Female",
+      "dateOfBirth": "1999-02-28",
+      "photo": "https://example.com/photos/geeta.jpg",
+      "contactNumber": "9876548899",
+      "email": "geeta@example.com",
+      "address": "Jaipur, Rajasthan",
+      "password": "9876548899"
+    },
+    "officialDetails": {
+      "officeName": "Free Company HQ",
+      "designation": "HR Recruiter",
+      "department": "Human Resources",
+      "employeeID": "EMP009",
+      "joiningDate": "2024-01-05",
+      "employmentType": "Full-time"
+    },
+    "workProfile": {
+      "jobProfile": "Talent acquisition & onboarding",
+      "dailyTasks": ["Screening", "Interviews", "HR Documentation"],
+      "workLocation": "Jaipur Office",
+      "shiftTiming": {
+        "checkIn": "10:00 AM",
+        "checkOut": "06:00 PM"
+      },
+      "reportingManager": "Neha Verma",
+      "teamName": "HR Team"
+    },
+    "documents": {
+      "aadhaar": "XXXXXXXX2811",
+      "pan": "GRTHJ9981O",
+      "bankDetails": "Kotak Bank - ****4422",
+      "educationCertificates": true,
+      "experienceLetter": false,
+      "resume": true
+    },
+    "attendance": {
+      "dailyAttendance": [],
+      "leaveRecords": [],
+      "lateEntry": 1,
+      "earlyExit": 2,
+      "overtimeHours": 3,
+      "status": "Present"
+    },
+    "salaryDetails": {
+      "basicSalary": 35000,
+      "allowances": 2500,
+      "deductions": 1000,
+      "status": "Paid",
+      "bankAccount": "Kotak - ****4422",
+      "incentives": 800
+    },
+    "performance": {
+      "monthlyReport": "Good",
+      "completedTasks": 75,
+      "pendingTasks": 15,
+      "rating": 4.0,
+      "notes": "Effective recruiter"
+    },
+    "systemAccess": {
+      "username": "geeta.r",
+      "password": "encrypted-password",
+      "accessLevel": "Employee",
+      "lastLogin": "2025-11-23 07:40",
+      "activityLog": []
+    }
+  },
+
+  {
+    "id": "10",
+    "basicInfo": {
+      "employeeName": "Arjun Deshmukh",
+      "fatherOrGuardianName": "Kunal Deshmukh",
+      "gender": "Male",
+      "dateOfBirth": "1992-08-15",
+      "photo": "https://example.com/photos/arjun.jpg",
+      "contactNumber": "9090912345",
+      "email": "arjun@example.com",
+      "address": "Nagpur, Maharashtra",
+      "password": "9090912345"
+    },
+    "officialDetails": {
+      "officeName": "Free Company HQ",
+      "designation": "Sales Manager",
+      "department": "Sales",
+      "employeeID": "EMP010",
+      "joiningDate": "2021-08-05",
+      "employmentType": "Full-time"
+    },
+    "workProfile": {
+      "jobProfile": "Manages sales operations",
+      "dailyTasks": ["Client Meetings", "Reports", "Targets"],
+      "workLocation": "Nagpur Office",
+      "shiftTiming": {
+        "checkIn": "09:00 AM",
+        "checkOut": "06:30 PM"
+      },
+      "reportingManager": "Rajesh Patil",
+      "teamName": "Sales Team"
+    },
+    "documents": {
+      "aadhaar": "XXXXXXXX1122",
+      "pan": "ARJND5543H",
+      "bankDetails": "Axis Bank - ****1122",
+      "educationCertificates": true,
+      "experienceLetter": true,
+      "resume": true
+    },
+    "attendance": {
+      "dailyAttendance": [],
+      "leaveRecords": [],
+      "lateEntry": 0,
+      "earlyExit": 0,
+      "overtimeHours": 22,
+      "status": "Present"
+    },
+    "salaryDetails": {
+      "basicSalary": 70000,
+      "allowances": 7000,
+      "deductions": 2500,
+      "status": "Paid",
+      "bankAccount": "Axis - ****1122",
+      "incentives": 5000
+    },
+    "performance": {
+      "monthlyReport": "Excellent",
+      "completedTasks": 160,
+      "pendingTasks": 3,
+      "rating": 4.9,
+      "notes": "Top salesperson"
+    },
+    "systemAccess": {
+      "username": "arjun.d",
+      "password": "encrypted-password",
+      "accessLevel": "Manager",
+      "lastLogin": "2025-11-25 09:55",
+      "activityLog": []
+    }
+  },
+  {
+    "id": "11",
+    "basicInfo": {
+      "employeeName": "Vikram Singh",
+      "fatherOrGuardianName": "Harish Singh",
+      "gender": "Male",
+      "dateOfBirth": "1992-09-11",
+      "photo": "https://example.com/photos/vikram.jpg",
+      "contactNumber": "9876012345",
+      "email": "vikram@example.com",
+      "address": "Jaipur, Rajasthan",
+      "password": "vikram123"
+    },
+    "officialDetails": {
+      "officeName": "Free Company HQ",
+      "designation": "UI/UX Designer",
+      "department": "Design",
+      "employeeID": "EMP011",
+      "joiningDate": "2023-08-01",
+      "employmentType": "Full-time"
+    },
+    "workProfile": {
+      "jobProfile": "Designs mobile & web interfaces",
+      "dailyTasks": ["Wireframing", "Prototype", "UI Design"],
+      "workLocation": "HQ",
+      "shiftTiming": { "checkIn": "10:00 AM", "checkOut": "06:30 PM" },
+      "reportingManager": "Riya Arora",
+      "teamName": "Design Team"
+    },
+    "documents": {
+      "aadhaar": "XXXXXXXX2345",
+      "pan": "ABCDE2345G",
+      "bankDetails": "ICICI - ****3423",
+      "educationCertificates": true,
+      "experienceLetter": true,
+      "resume": true
+    },
+    "attendance": {
+      "dailyAttendance": [],
+      "leaveRecords": [],
+      "lateEntry": 0,
+      "earlyExit": 2,
+      "overtimeHours": 6,
+      "status": "Present"
+    },
+    "salaryDetails": {
+      "basicSalary": 52000,
+      "allowances": 4000,
+      "deductions": 1500,
+      "status": "Paid",
+      "bankAccount": "ICICI - ****3423",
+      "incentives": 2000
+    },
+    "performance": {
+      "monthlyReport": "Good",
+      "completedTasks": 85,
+      "pendingTasks": 6,
+      "rating": 4.2,
+      "notes": "Creative thinker"
+    },
+    "systemAccess": {
+      "username": "vikram.s",
+      "password": "encrypted-password",
+      "accessLevel": "Employee",
+      "lastLogin": "2025-11-21 10:10",
+      "activityLog": []
+    }
+  },
+
+  {
+    "id": "12",
+    "basicInfo": {
+      "employeeName": "Anjali Mishra",
+      "fatherOrGuardianName": "Sandeep Mishra",
+      "gender": "Female",
+      "dateOfBirth": "1998-01-22",
+      "photo": "https://example.com/photos/anjali.jpg",
+      "contactNumber": "9876045567",
+      "email": "anjali@example.com",
+      "address": "Kolkata, West Bengal",
+      "password": "anjali123"
+    },
+    "officialDetails": {
+      "officeName": "Free Company HQ",
+      "designation": "Content Writer",
+      "department": "Marketing",
+      "employeeID": "EMP012",
+      "joiningDate": "2024-03-15",
+      "employmentType": "Full-time"
+    },
+    "workProfile": {
+      "jobProfile": "Creates marketing content",
+      "dailyTasks": ["Writing", "Research", "Editing"],
+      "workLocation": "Remote",
+      "shiftTiming": { "checkIn": "09:30 AM", "checkOut": "06:00 PM" },
+      "reportingManager": "Alok Bansal",
+      "teamName": "Marketing Team"
+    },
+    "documents": {
+      "aadhaar": "XXXXXXXX9876",
+      "pan": "ABCDE7654M",
+      "bankDetails": "SBI - ****5611",
+      "educationCertificates": true,
+      "experienceLetter": false,
+      "resume": true
+    },
+    "attendance": {
+      "dailyAttendance": [],
+      "leaveRecords": [],
+      "lateEntry": 1,
+      "earlyExit": 0,
+      "overtimeHours": 5,
+      "status": "Present"
+    },
+    "salaryDetails": {
+      "basicSalary": 38000,
+      "allowances": 3000,
+      "deductions": 1200,
+      "status": "Paid",
+      "bankAccount": "SBI - ****5611",
+      "incentives": 1000
+    },
+    "performance": {
+      "monthlyReport": "Very Good",
+      "completedTasks": 95,
+      "pendingTasks": 4,
+      "rating": 4.4,
+      "notes": "Strong writing skills"
+    },
+    "systemAccess": {
+      "username": "anjali.m",
+      "password": "encrypted-password",
+      "accessLevel": "Employee",
+      "lastLogin": "2025-11-21 11:20",
+      "activityLog": []
+    }
+  },
+
+  {
+    "id": "13",
+    "basicInfo": {
+      "employeeName": "Sahil Joshi",
+      "fatherOrGuardianName": "Rakesh Joshi",
+      "gender": "Male",
+      "dateOfBirth": "1991-05-10",
+      "photo": "https://example.com/photos/sahil.jpg",
+      "contactNumber": "9876023490",
+      "email": "sahil@example.com",
+      "address": "Surat, Gujarat",
+      "password": "sahil123"
+    },
+    "officialDetails": {
+      "officeName": "Free Company HQ",
+      "designation": "Finance Analyst",
+      "department": "Finance",
+      "employeeID": "EMP013",
+      "joiningDate": "2021-12-20",
+      "employmentType": "Full-time"
+    },
+    "workProfile": {
+      "jobProfile": "Manages company financial data",
+      "dailyTasks": ["Reports", "Audits", "Financial Review"],
+      "workLocation": "HQ",
+      "shiftTiming": { "checkIn": "10:00 AM", "checkOut": "07:00 PM" },
+      "reportingManager": "Rohit Malhotra",
+      "teamName": "Finance Team"
+    },
+    "documents": {
+      "aadhaar": "XXXXXXXX5544",
+      "pan": "ABCDE8876P",
+      "bankDetails": "HDFC - ****2244",
+      "educationCertificates": true,
+      "experienceLetter": true,
+      "resume": true
+    },
+    "attendance": {
+      "dailyAttendance": [],
+      "leaveRecords": [],
+      "lateEntry": 1,
+      "earlyExit": 1,
+      "overtimeHours": 3,
+      "status": "Present"
+    },
+    "salaryDetails": {
+      "basicSalary": 60000,
+      "allowances": 6000,
+      "deductions": 2000,
+      "status": "Paid",
+      "bankAccount": "HDFC - ****2244",
+      "incentives": 3500
+    },
+    "performance": {
+      "monthlyReport": "Excellent",
+      "completedTasks": 110,
+      "pendingTasks": 3,
+      "rating": 4.7,
+      "notes": "Strong analysis skills"
+    },
+    "systemAccess": {
+      "username": "sahil.j",
+      "password": "encrypted-password",
+      "accessLevel": "Manager",
+      "lastLogin": "2025-11-21 09:45",
+      "activityLog": []
+    }
+  },
+
+  {
+    "id": "14",
+    "basicInfo": {
+      "employeeName": "Priya Nair",
+      "fatherOrGuardianName": "Sreenivasan Nair",
+      "gender": "Female",
+      "dateOfBirth": "1996-02-05",
+      "photo": "https://example.com/photos/priya.jpg",
+      "contactNumber": "9876009988",
+      "email": "priya@example.com",
+      "address": "Kochi, Kerala",
+      "password": "priya123"
+    },
+    "officialDetails": {
+      "officeName": "Free Company HQ",
+      "designation": "Business Analyst",
+      "department": "Business",
+      "employeeID": "EMP014",
+      "joiningDate": "2022-10-11",
+      "employmentType": "Full-time"
+    },
+    "workProfile": {
+      "jobProfile": "Creates business reports & insights",
+      "dailyTasks": ["Meetings", "Analysis", "Documentation"],
+      "workLocation": "Remote",
+      "shiftTiming": { "checkIn": "09:00 AM", "checkOut": "06:00 PM" },
+      "reportingManager": "Rajiv Kumar",
+      "teamName": "Business Team"
+    },
+    "documents": {
+      "aadhaar": "XXXXXXXX4522",
+      "pan": "ABCDE4432T",
+      "bankDetails": "SBI - ****3441",
+      "educationCertificates": true,
+      "experienceLetter": true,
+      "resume": true
+    },
+    "attendance": {
+      "dailyAttendance": [],
+      "leaveRecords": [],
+      "lateEntry": 0,
+      "earlyExit": 0,
+      "overtimeHours": 4,
+      "status": "Present"
+    },
+    "salaryDetails": {
+      "basicSalary": 50000,
+      "allowances": 8000,
+      "deductions": 2700,
+      "status": "Paid",
+      "bankAccount": "SBI - ****3441",
+      "incentives": 1500
+    },
+    "performance": {
+      "monthlyReport": "Very Good",
+      "completedTasks": 90,
+      "pendingTasks": 7,
+      "rating": 4.3,
+      "notes": "Great communication"
+    },
+    "systemAccess": {
+      "username": "priya.n",
+      "password": "encrypted-password",
+      "accessLevel": "Employee",
+      "lastLogin": "2025-11-21 02:15",
+      "activityLog": []
+    }
+  },
+
+  {
+    "id": "15",
+    "basicInfo": {
+      "employeeName": "Rohan Gupta",
+      "fatherOrGuardianName": "Vinod Gupta",
+      "gender": "Male",
+      "dateOfBirth": "1994-07-16",
+      "photo": "https://example.com/photos/rohan.jpg",
+      "contactNumber": "9876034567",
+      "email": "rohan@example.com",
+      "address": "Indore, Madhya Pradesh",
+      "password": "rohan123"
+    },
+    "officialDetails": {
+      "officeName": "Free Company HQ",
+      "designation": "Network Engineer",
+      "department": "IT",
+      "employeeID": "EMP015",
+      "joiningDate": "2020-05-20",
+      "employmentType": "Full-time"
+    },
+    "workProfile": {
+      "jobProfile": "Maintains IT networks",
+      "dailyTasks": ["Maintenance", "Troubleshooting", "Security Checks"],
+      "workLocation": "HQ",
+      "shiftTiming": { "checkIn": "10:00 AM", "checkOut": "07:00 PM" },
+      "reportingManager": "Amit Roy",
+      "teamName": "IT Team"
+    },
+    "documents": {
+      "aadhaar": "XXXXXXXX9088",
+      "pan": "ABCDE9988Q",
+      "bankDetails": "HDFC - ****7878",
+      "educationCertificates": true,
+      "experienceLetter": true,
+      "resume": true
+    },
+    "attendance": {
+      "dailyAttendance": [],
+      "leaveRecords": [],
+      "lateEntry": 2,
+      "earlyExit": 1,
+      "overtimeHours": 7,
+      "status": "Present"
+    },
+    "salaryDetails": {
+      "basicSalary": 58000,
+      "allowances": 4500,
+      "deductions": 1800,
+      "status": "Paid",
+      "bankAccount": "HDFC - ****7878",
+      "incentives": 2500
+    },
+    "performance": {
+      "monthlyReport": "Good",
+      "completedTasks": 92,
+      "pendingTasks": 4,
+      "rating": 4.2,
+      "notes": "Great troubleshooting skills"
+    },
+    "systemAccess": {
+      "username": "rohan.g",
+      "password": "encrypted-password",
+      "accessLevel": "Employee",
+      "lastLogin": "2025-11-21 03:25",
+      "activityLog": []
+    }
+  },
+
+  {
+    "id": "16",
+    "basicInfo": {
+      "employeeName": "Meera Desai",
+      "fatherOrGuardianName": "Kiran Desai",
+      "gender": "Female",
+      "dateOfBirth": "1999-04-18",
+      "photo": "https://example.com/photos/meera.jpg",
+      "contactNumber": "9876098765",
+      "email": "meera@example.com",
+      "address": "Vadodara, Gujarat",
+      "password": "meera123"
+    },
+    "officialDetails": {
+      "officeName": "Free Company HQ",
+      "designation": "Operations Executive",
+      "department": "Operations",
+      "employeeID": "EMP016",
+      "joiningDate": "2024-06-01",
+      "employmentType": "Full-time"
+    },
+    "workProfile": {
+      "jobProfile": "Handles day-to-day operations",
+      "dailyTasks": ["Documentation", "Support", "Coordination"],
+      "workLocation": "HQ",
+      "shiftTiming": { "checkIn": "10:00 AM", "checkOut": "07:00 PM" },
+      "reportingManager": "Harsh Shah",
+      "teamName": "Operations Team"
+    },
+    "documents": {
+      "aadhaar": "XXXXXXXX2211",
+      "pan": "ABCDE5644U",
+      "bankDetails": "BOB - ****2211",
+      "educationCertificates": true,
+      "experienceLetter": false,
+      "resume": true
+    },
+    "attendance": {
+      "dailyAttendance": [],
+      "leaveRecords": [],
+      "lateEntry": 0,
+      "earlyExit": 1,
+      "overtimeHours": 3,
+      "status": "Present"
+    },
+    "salaryDetails": {
+      "basicSalary": 35000,
+      "allowances": 2000,
+      "deductions": 900,
+      "status": "Paid",
+      "bankAccount": "BOB - ****2211",
+      "incentives": 800
+    },
+    "performance": {
+      "monthlyReport": "Good",
+      "completedTasks": 75,
+      "pendingTasks": 8,
+      "rating": 4.0,
+      "notes": "Hardworking"
+    },
+    "systemAccess": {
+      "username": "meera.d",
+      "password": "encrypted-password",
+      "accessLevel": "Employee",
+      "lastLogin": "2025-11-21 01:15",
+      "activityLog": []
+    }
+  },
+
+  {
+    "id": "17",
+    "basicInfo": {
+      "employeeName": "Aditya Kumar",
+      "fatherOrGuardianName": "Sanjay Kumar",
+      "gender": "Male",
+      "dateOfBirth": "1993-12-30",
+      "photo": "https://example.com/photos/aditya.jpg",
+      "contactNumber": "9876054321",
+      "email": "aditya@example.com",
+      "address": "Patna, Bihar",
+      "password": "aditya123"
+    },
+    "officialDetails": {
+      "officeName": "Free Company HQ",
+      "designation": "Backend Developer",
+      "department": "Engineering",
+      "employeeID": "EMP017",
+      "joiningDate": "2023-11-12",
+      "employmentType": "Full-time"
+    },
+    "workProfile": {
+      "jobProfile": "Builds backend services",
+      "dailyTasks": ["Coding", "API Development", "Debugging"],
+      "workLocation": "Remote",
+      "shiftTiming": { "checkIn": "09:30 AM", "checkOut": "06:30 PM" },
+      "reportingManager": "Ravi Sharma",
+      "teamName": "Engineering Team"
+    },
+    "documents": {
+      "aadhaar": "XXXXXXXX8765",
+      "pan": "ABCDE7654N",
+      "bankDetails": "SBI - ****6654",
+      "educationCertificates": true,
+      "experienceLetter": true,
+      "resume": true
+    },
+    "attendance": {
+      "dailyAttendance": [],
+      "leaveRecords": [],
+      "lateEntry": 2,
+      "earlyExit": 0,
+      "overtimeHours": 8,
+      "status": "Present"
+    },
+    "salaryDetails": {
+      "basicSalary": 56000,
+      "allowances": 5000,
+      "deductions": 1700,
+      "status": "Paid",
+      "bankAccount": "SBI - ****6654",
+      "incentives": 3000
+    },
+    "performance": {
+      "monthlyReport": "Very Good",
+      "completedTasks": 100,
+      "pendingTasks": 5,
+      "rating": 4.5,
+      "notes": "Great backend developer"
+    },
+    "systemAccess": {
+      "username": "aditya.k",
+      "password": "encrypted-password",
+      "accessLevel": "Employee",
+      "lastLogin": "2025-11-21 10:45",
+      "activityLog": []
+    }
+  },
+
+  {
+    "id": "18",
+    "basicInfo": {
+      "employeeName": "Shreya Kapoor",
+      "fatherOrGuardianName": "Ajay Kapoor",
+      "gender": "Female",
+      "dateOfBirth": "1995-06-25",
+      "photo": "https://example.com/photos/shreya.jpg",
+      "contactNumber": "9876076543",
+      "email": "shreya@example.com",
+      "address": "Dehradun, Uttarakhand",
+      "password": "shreya123"
+    },
+    "officialDetails": {
+      "officeName": "Free Company HQ",
+      "designation": "Recruiter",
+      "department": "HR",
+      "employeeID": "EMP018",
+      "joiningDate": "2022-02-14",
+      "employmentType": "Full-time"
+    },
+    "workProfile": {
+      "jobProfile": "Handles hiring & recruitment",
+      "dailyTasks": ["Interviews", "Screening", "Follow-ups"],
+      "workLocation": "HQ",
+      "shiftTiming": { "checkIn": "10:00 AM", "checkOut": "06:00 PM" },
+      "reportingManager": "Neha Verma",
+      "teamName": "HR Team"
+    },
+    "documents": {
+      "aadhaar": "XXXXXXXX6754",
+      "pan": "ABCDE7456L",
+      "bankDetails": "Axis - ****9981",
+      "educationCertificates": true,
+      "experienceLetter": true,
+      "resume": true
+    },
+    "attendance": {
+      "dailyAttendance": [],
+      "leaveRecords": [],
+      "lateEntry": 1,
+      "earlyExit": 2,
+      "overtimeHours": 4,
+      "status": "Present"
+    },
+    "salaryDetails": {
+      "basicSalary": 42000,
+      "allowances": 3500,
+      "deductions": 1200,
+      "status": "Paid",
+      "bankAccount": "Axis - ****9981",
+      "incentives": 1200
+    },
+    "performance": {
+      "monthlyReport": "Good",
+      "completedTasks": 85,
+      "pendingTasks": 9,
+      "rating": 4.1,
+      "notes": "Good recruiter"
+    },
+    "systemAccess": {
+      "username": "shreya.k",
+      "password": "encrypted-password",
+      "accessLevel": "Employee",
+      "lastLogin": "2025-11-21 02:45",
+      "activityLog": []
+    }
+  },
+
+  {
+    "id": "19",
+    "basicInfo": {
+      "employeeName": "Nitin Bansal",
+      "fatherOrGuardianName": "Ramesh Bansal",
+      "gender": "Male",
+      "dateOfBirth": "1990-09-14",
+      "photo": "https://example.com/photos/nitin.jpg",
+      "contactNumber": "9876087654",
+      "email": "nitin@example.com",
+      "address": "Chandigarh, India",
+      "password": "nitin123"
+    },
+    "officialDetails": {
+      "officeName": "Free Company HQ",
+      "designation": "Project Coordinator",
+      "department": "Management",
+      "employeeID": "EMP019",
+      "joiningDate": "2023-01-10",
+      "employmentType": "Full-time"
+    },
+    "workProfile": {
+      "jobProfile": "Coordinates project tasks",
+      "dailyTasks": ["Scheduling", "Reporting", "Team Handling"],
+      "workLocation": "HQ",
+      "shiftTiming": { "checkIn": "10:00 AM", "checkOut": "07:00 PM" },
+      "reportingManager": "Aisha Khan",
+      "teamName": "Management Team"
+    },
+    "documents": {
+      "aadhaar": "XXXXXXXX1122",
+      "pan": "ABCDE3321Z",
+      "bankDetails": "ICICI - ****5566",
+      "educationCertificates": true,
+      "experienceLetter": true,
+      "resume": true
+    },
+    "attendance": {
+      "dailyAttendance": [],
+      "leaveRecords": [],
+      "lateEntry": 3,
+      "earlyExit": 1,
+      "overtimeHours": 9,
+      "status": "Present"
+    },
+    "salaryDetails": {
+      "basicSalary": 45000,
+      "allowances": 5000,
+      "deductions": 1400,
+      "status": "Paid",
+      "bankAccount": "ICICI - ****5566",
+      "incentives": 1800
+    },
+    "performance": {
+      "monthlyReport": "Good",
+      "completedTasks": 88,
+      "pendingTasks": 6,
+      "rating": 4.2,
+      "notes": "Good project coordinator"
+    },
+    "systemAccess": {
+      "username": "nitin.b",
+      "password": "encrypted-password",
+      "accessLevel": "Employee",
+      "lastLogin": "2025-11-21 09:00",
+      "activityLog": []
+    }
+  },
+
+  {
+    "id": "20",
+    "basicInfo": {
+      "employeeName": "Kavita Reddy",
+      "fatherOrGuardianName": "Shiva Reddy",
+      "gender": "Female",
+      "dateOfBirth": "1997-08-09",
+      "photo": "https://example.com/photos/kavita.jpg",
+      "contactNumber": "9876094321",
+      "email": "kavita@example.com",
+      "address": "Hyderabad, Telangana",
+      "password": "kavita123"
+    },
+    "officialDetails": {
+      "officeName": "Free Company HQ",
+      "designation": "Customer Support Executive",
+      "department": "Support",
+      "employeeID": "EMP020",
+      "joiningDate": "2024-04-01",
+      "employmentType": "Full-time"
+    },
+    "workProfile": {
+      "jobProfile": "Handles customer calls & support tickets",
+      "dailyTasks": ["Calls", "Support Tickets", "Reporting"],
+      "workLocation": "Remote",
+      "shiftTiming": { "checkIn": "09:00 AM", "checkOut": "06:00 PM" },
+      "reportingManager": "Rohan Gupta",
+      "teamName": "Support Team"
+    },
+    "documents": {
+      "aadhaar": "XXXXXXXX5577",
+      "pan": "ABCDE5543T",
+      "bankDetails": "HDFC - ****9011",
+      "educationCertificates": true,
+      "experienceLetter": false,
+      "resume": true
+    },
+    "attendance": {
+      "dailyAttendance": [],
+      "leaveRecords": [],
+      "lateEntry": 0,
+      "earlyExit": 2,
+      "overtimeHours": 2,
+      "status": "Present"
+    },
+    "salaryDetails": {
+      "basicSalary": 32000,
+      "allowances": 2500,
+      "deductions": 800,
+      "status": "Paid",
+      "bankAccount": "HDFC - ****9011",
+      "incentives": 700
+    },
+    "performance": {
+      "monthlyReport": "Good",
+      "completedTasks": 70,
+      "pendingTasks": 5,
+      "rating": 4.0,
+      "notes": "Supportive and punctual"
+    },
+    "systemAccess": {
+      "username": "kavita.r",
+      "password": "encrypted-password",
+      "accessLevel": "Employee",
+      "lastLogin": "2025-11-21 08:30",
+      "activityLog": []
+    }
+  }
+]
